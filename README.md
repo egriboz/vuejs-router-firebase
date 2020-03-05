@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/853cfd34-852c-43bc-aa9d-6d80158c0375/deploy-status)](https://app.netlify.com/sites/got-app/deploys)
+
 # webapp
 
 > A Vue.js project
