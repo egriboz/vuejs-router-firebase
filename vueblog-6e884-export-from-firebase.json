@@ -1,0 +1,64 @@
+{
+  "about" : {
+    "img" : "https://images.immediate.co.uk/volatile/sites/3/2017/09/episode-64-1920.jpg",
+    "text" : "Praesent euismod magna non elit efficitur, quis eleifend arcu mollis. Cras nisi lorem, dictum in egestas quis, venenatis id nisl. Pellentesque quis auctor diam. Morbi ut suscipit neque, vitae sollicitudin risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ut eros aliquam, pharetra neque lobortis, gravida nunc. Vivamus tincidunt dolor dui, vel rutrum elit lacinia in. Quisque scelerisque ut quam vitae rutrum. Maecenas id ligula id tortor iaculis faucibus quis et velit. Nulla sed condimentum quam, at ultricies urna. Cras in ex vel nunc viverra scelerisque. Aenean luctus porttitor tempor."
+  },
+  "contact" : {
+    "img" : "https://images.immediate.co.uk/volatile/sites/3/2017/08/15.jpg",
+    "text" : "Lorem ipsum, Praesent euismod magna non elit efficitur, quis eleifend arcu mollis. Cras nisi lorem, dictum in egestas quis, venenatis id nisl. Pellentesque quis auctor diam. Morbi ut suscipit neque, vitae sollicitudin risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ut eros aliquam, pharetra neque lobortis, gravida nunc. Vivamus tincidunt dolor dui, vel rutrum elit lacinia in. Quisque scelerisque ut quam vitae rutrum. Maecenas id ligula id tortor iaculis faucibus quis et velit. Nulla sed condimentum quam, at ultricies urna. Cras in ex vel nunc viverra scelerisque. Aenean luctus porttitor tempor..."
+  },
+  "entries" : [ {
+    "date" : "23.12.2018",
+    "house" : "Lannister",
+    "id" : 1,
+    "img" : "http://assets.viewers-guide.hbo.com/large533cb08ed9c00.jpg",
+    "logo" : "http://assets.viewers-guide.hbo.com/larges1-houses-rgb-sigil-avatar-house-lannister-1024x1024.jpg",
+    "text" : "Jaime is the twin brother of Queen Cersei A celebrated knight and member of the Kingsguard, he violated his oath to protect the royal family when he slew the Mad King Ever since, his reputation as The Kingslayer has dogged him...",
+    "title" : "Jaime Lannister"
+  }, {
+    "date" : "23.12.2018",
+    "house" : "Lannister",
+    "id" : 2,
+    "img" : "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-baratheon-cersei-1024x1024.jpg",
+    "logo" : "http://assets.viewers-guide.hbo.com/larges1-houses-rgb-sigil-avatar-house-lannister-1024x1024.jpg",
+    "text" : "Cersei Lannister is the only daughter of Tywin Lannisterformer Hand of the King and the richest man in the Seven Kingdoms. Her father had initially hoped to marry her to Rhaegar Targaryenbut that offer was refused by the Mad King AerysShe is the wife of Robert Baratheonand mother of his three children. While she is close with her twin Jaimeshe can barely tolerate her brother Tyrion.",
+    "title" : "Cersei Lannister"
+  }, {
+    "date" : "13.11.2018",
+    "house" : "Lannister",
+    "id" : 3,
+    "img" : "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-baratheon-joffrey-1024x1024.jpg",
+    "logo" : "http://assets.viewers-guide.hbo.com/larges1-houses-rgb-sigil-avatar-house-lannister-1024x1024.jpg",
+    "text" : "The over-indulged heir to the throne, Joffrey resembles his mother Cersei in both looks and comportment, in part because he has been ignored by his father most his life. He is guarded by Sandor Clegane (The Hound) who willingly carries out his impetuous commands.",
+    "title" : "Joffrey Baratheon"
+  }, {
+    "date" : "23.12.2018",
+    "house" : "Stark",
+    "id" : 4,
+    "img" : "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-stark-sansa-1024x1024.jpg",
+    "logo" : "http://assets.viewers-guide.hbo.com/smalls1-houses-rgb-sigil-avatar-house-stark-1024x1024.jpg",
+    "text" : "Sansa has inherited her mother Catelyn beauty, which should serve her well in the courtly world of knights and princes she dreams of inhabiting. But growing up in the northern reaches, where the only hardship she experiences are taunts from her sister, has left Sansa somewhat sheltered, and her naiveté won't help her in the world outside Winterfell walls. Her direwolf is named Lady.",
+    "title" : "Sansa Stark"
+  }, {
+    "date" : "23.12.2018",
+    "house" : "Bastard",
+    "id" : 5,
+    "img" : "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-snow-jon-1024x1024.jpg",
+    "logo" : "http://assets.viewers-guide.hbo.com/smalls1-houses-rgb-sigil-avatar-house-stark-1024x1024.jpg",
+    "text" : "Ned Stark bastard son, Jon has been raised at Winterfell on near-equal footing with his siblings. He joins the Night's Watch, following in the footsteps of his Uncle Benjen His direwolf is named Ghost.",
+    "title" : "Jon Snow"
+  }, {
+    "date" : "23.12.2018",
+    "house" : "Stark",
+    "id" : 6,
+    "img" : "http://assets.viewers-guide.hbo.com/larges1-ep1-people-avatar-rgb-stark-arya-1024x1024.jpg",
+    "logo" : "http://assets.viewers-guide.hbo.com/smalls1-houses-rgb-sigil-avatar-house-stark-1024x1024.jpg",
+    "text" : "A young girl far more interested in wielding a blade than becoming a lady, Arya is constantly at odds with her prim sister, Sansa Arya is very much her father's daughter, and Ned has a certain level of appreciation for the girl's rebellious attitude... up to a point. Her direwolf is named Nymeria.",
+    "title" : "Arya Stark5"
+  } ],
+  "welcome" : {
+    "description" : "Get ready for the final season, starting April 14.",
+    "img" : "http://assets.viewers-guide.hbo.com/xlarge597b6603b556d.jpg",
+    "text" : "The Season 8 Trailer Is Here"
+  }
+}
